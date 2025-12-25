@@ -1,0 +1,17 @@
+title: ThisIsMyGithubRepo
+email: ""
+description: "A simple Jekyll site for ThisIsMyGithubRepo"
+baseurl: ""
+url: "https://your-username.github.io" # replace with your username
+theme: minima
+
+author:
+  name: Your Name
+
+datetime_format: "%Y-%m-%d %H:%M %z"
+
+# Build settings
+exclude:
+  - Gemfile.lock
+  - node_modules
+  - vendor
