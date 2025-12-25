@@ -32,7 +32,9 @@ GitHub will serve the site from the repository root automatically when you push.
 
 - Replace `url` in `_config.yml` with your GitHub Pages URL.
 - If you want an automated build/deploy workflow (Actions), tell me and I'll add one.
-
+ - Replace `url` in `_config.yml` with your GitHub Pages URL.
+ - The site now uses the `BDHU/minimalist` remote Jekyll theme (see `remote_theme` in `_config.yml`).
+ - If you want an automated build/deploy workflow (Actions), tell me and I'll add one.
 ## CI / CD
 
 - A GitHub Actions workflow has been added at `.github/workflows/jekyll-deploy.yml`.
