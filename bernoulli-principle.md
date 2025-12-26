@@ -1,6 +1,8 @@
+---
 layout: page
 title: "The Bernoulli Principle"
 permalink: /bernoulli-principle-explainer
+---
 
 # The Bernoulli Principle
 
