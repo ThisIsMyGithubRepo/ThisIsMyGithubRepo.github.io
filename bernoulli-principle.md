@@ -32,11 +32,12 @@ Within a streamline: Fluid flows don't *cause* pressure differentials. It's pres
 
 Therefore in (Bernoulli applicable streamline) there can be flow conditions that cause low pressure, and that low pressure causes flow to speed up. Not the reverse.
 
-Statements like, "Lift is caused by the Bernoulli Effect" thus make no sense. Bernoulli can't *cause* anything.
+Statements like, "Lift is caused by the Bernoulli Effect" thus make no sense. Bernoulli can't *cause* anything.Instead:
 
-Lift is caused by pressure differentials.
-Some pressure differentials can be predicted/calculated using the Bernoulli Equation.
-But the Bernoulli Equation doesn't cauase those pressure differentials to exist in the first place, it just tells us when to expect them and how to compute their values.
+* Lift is caused by pressure differentials.
+* Some pressure differentials can be predicted/calculated using the Bernoulli Equation.
+
+...the Bernoulli Equation doesn't cauase those pressure differentials to exist in the first place, it just tells us when to expect them and how to compute their values.
 
 ## Some More Notes
 ### Large image
