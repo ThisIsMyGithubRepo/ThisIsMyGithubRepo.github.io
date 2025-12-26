@@ -1,6 +1,5 @@
-layout: post
+layout: page
 title: "The Bernoulli Principle"
-date: 2025-12-26 13:00:00 -0000
 categories: Bernoulli Fluids Explainer
 
 # The Bernoulli Principle
