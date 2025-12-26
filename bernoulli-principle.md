@@ -1,6 +1,6 @@
 layout: page
 title: "The Bernoulli Principle"
-categories: Bernoulli Fluids Explainer
+permalink: /bernoulli-principle-explainer
 
 # The Bernoulli Principle
 
