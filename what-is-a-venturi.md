@@ -10,9 +10,10 @@ permalink: /what-is-a-venturi
 A Venturi is a device that creates a low pressure zone in a fluid by forcing that fluid through a constriction. When going through the constriction, the fluid's velocity increases while it's pressure decreases.
 
 Basically, the fluid's pressure is turned into velocity. This is often referred to as the Venturi effect, and is just conservation of energy.
+<&check>
 
 ### A Venturi Checklist:
-- [X] There is a fluid flowing with some initial pressure.
+- [x] There is a fluid flowing with some initial pressure. 
 - [x] The fluid flows into a constriction.
 - [x] The fluid pressure drops in the constriction.
 - [x] The fluid velocity increases in the constriction.
