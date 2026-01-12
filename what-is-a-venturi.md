@@ -12,11 +12,11 @@ A Venturi is a device that creates a low pressure zone in a fluid by forcing tha
 Basically, the fluid's pressure is turned into velocity. This is often referred to as the Venturi effect, and is just conservation of energy.
 
 ### A Venturi Checklist:
-[X] There is a fluid flowing with some initial pressure.
-[x] The fluid flows into a constriction.
-[x] The fluid pressure drops in the constriction.
-[x] The fluid velocity increases in the constriction.
-[x] Optional: If a siphon exists, then the siphon fluid is at a pressure that is higher than the low-pressure in the constriction.
+- [X] There is a fluid flowing with some initial pressure.
+- [x] The fluid flows into a constriction.
+- [x] The fluid pressure drops in the constriction.
+- [x] The fluid velocity increases in the constriction.
+- [x] Optional: If a siphon exists, then the siphon fluid is at a pressure that is higher than the low-pressure in the constriction.
 
 When used as a siphon, it's important to note that the a venturi creates low pressure, which causes suction on the siphon. A pressure differential is the primary mechanism.
 
