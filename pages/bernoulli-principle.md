@@ -3,40 +3,48 @@ layout: page
 title: "The Bernoulli Principle"
 permalink: /bernoulli-principle-explainer
 ---
-
 # The Bernoulli Principle
 
 ## What People Think
-Most people believe the Bernoulli Principle says:
+Many people believe the Bernoulli Principle says:
 
-* All fast moving fluids have low pressure.
-* Any fast moving fluid must have a lower pressure than a slower moving fluid.
-
-In other words, it's a common misunderstanding to think that the Bernoulli Principle allows us to compare the pressures of two different fluid flows.
+1. Any fast moving fluid must have a lower pressure than a slower moving fluid.
+1. Speeding up a fluid causes pressure to drop.
+1. The Bernoulli effect causes that pressure drop.
 
 ## What Does Bernoulli Actually Tell Us?
-
-Bernoulli only tells us what's happening in a single, undistrurbed, stream of fluid (a *streamline*).
+Bernoulli's equation is a tool that allows us to compare two points within a single, undisturbed, stream of fluid (a *streamline*).
 
 Within such a streamline:
 * Where the flow speeds up, we should expect to find lower pressure compared to where *that same flow* is slower, and vise-versa.
 
-The streamline must meet a bunch of conditions (basically, energy can't be added or subtracted) because what's really happening is the conservation of energy (the first law of thermodynamics). 
+![Branching](../assets/img/BernoulliStreamlinePoints.png)
 
-In qualified flows, Bernoulli is just telling us how pressure energy is being converted into velocity, or velocity into pressure, but ultimatly equalling the same total energy.
+Above, Point 1 and Point 2 are within the same streamline, and you could use the Bernoulli Equation to compare them.
 
-Sometimes this can be useful in comparing two different fluid flows, but it's not true by default.
+Point 3 is outside of the flow, and you cannot use the Bernoulli equation to compare or predict its attributes.
 
-## Bernoulli isn't a Force. It isn't Causal.
-Common expressions of the Bernoulli Principle reverse the relationship between pressure and velocity, making people think that high velocity *causes* low pressure. That's wrong. It's, in fact, backwards.
+### Do all fast moving fluids have low pressure?
+No. Any given fluid, flowing at any given speed, could be at any possible pressure. You need more information to compare.
 
-Repeat after me: Fluid flows don't *cause* pressure differentials. Pressure differentials cause fluid flows. 
+A fan in your living room will speed up a fluid and create a stream of higher velocity air flowing through the stationary air. That stream of air will be at the same pressure as the rest of the air in your room.
 
-Therefore in a (Bernoulli applicable) streamline there can be flow conditions that cause low pressure, and that low pressure causes flow to speed up. Not the reverse.
+### Does Speeding Up a Fluid Cause Pressure to Drop?
+No. Flow does not _cause_ pressure, pressure _causes_ flow. 
 
-Statements like, "Lift is caused by the Bernoulli Principle" thus make no sense. Bernoulli can't *cause* anything. Instead:
+So, this is wrong and backwards:
+1. A stream of fluid speeds up.
+1. Speeding up causing pressure to drop.
+1. Result is a lower pressure zone.
 
-* Lift is caused by pressure differentials.
-* Some pressure differentials can be predicted/calculated using the Bernoulli Principle and equation.
+Correct is:
+1. A low pressure zone gets created.
+1. The low pressure sucks the fluid towards it.
+1. The fluid stream speeds up.
 
-The Bernoulli Principle doesn't cause those pressure differentials to exist in the first place, it just tells us when to expect them and how to compute their values.
+### Does the Bernoulli Effect _Cause_ a Pressure drop?
+No, the Bernoulli Effect is an observation, not a force. It can't _cause_ a fluid to speed up, or slow down.
+
+As described in the previous paragraph, fluid speeds are controlled by pressure differences, not the reverse.
+
+The Bernoulli Equation and Principle just tells us how the pressures and velocities are correlated.
